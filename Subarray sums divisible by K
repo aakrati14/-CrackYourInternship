@@ -1,23 +1,26 @@
+#include <vector>
+
 class Solution {
 public:
-    int subarraysDivByK(vector<int>& arr, int k) {
-    int n = arr.size();
+    int subarraysDivByK(std::vector<int>& nums, int k) {
+        int n = nums.size();
+        std::vector<int> prefixSums(n + 1, 0);
 
-    vector<int> v(k+1,0);
-    long int sm=0;
-    for(int i=0;i<n;i++){
-        sm+=arr[i];
-        int rem = sm%k;
-        if(rem<0)rem+=k;
-        v[rem]++;
-    }
+        // Compute prefix sums
+        for (int i = 0; i < n; ++i) {
+            prefixSums[i + 1] = prefixSums[i] + nums[i];
+        }
 
-    int ans=v[0];
+        int count = 0;
+        for (int i = 0; i <= n; ++i) {
+            for (int j = i + 1; j <= n; ++j) {
+                if ((prefixSums[j] - prefixSums[i]) % k == 0) {
+                    count++;
+                }
+            }
+        }
 
-    for(int i=0;i<k;i++){
-        int tt = (v[i]*(v[i]-1))/2;
-        ans+=tt;
-    }
-    return ans;
+        return count;
     }
 };
+
