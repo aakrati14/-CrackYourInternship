@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
