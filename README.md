@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
