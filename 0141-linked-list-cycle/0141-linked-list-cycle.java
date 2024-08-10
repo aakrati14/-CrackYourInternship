@@ -9,6 +9,8 @@
  *     }
  * }
  */
+
+ //Floyd warshall algo.
 public class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode slowPtr=head;
