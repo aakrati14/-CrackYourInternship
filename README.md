@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aakrati14/-CrackYourInternship/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
