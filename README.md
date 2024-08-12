@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -125,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aakrati14/-CrackYourInternship/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
