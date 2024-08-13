@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aakrati14/-CrackYourInternship/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 ## Prefix Sum
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 ## Linked List
 |  |
