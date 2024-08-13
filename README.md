@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
