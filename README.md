@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
