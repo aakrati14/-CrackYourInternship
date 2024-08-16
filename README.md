@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
 ## String Matching
 |  |
