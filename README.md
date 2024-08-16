@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
