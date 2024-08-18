@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/aakrati14/-CrackYourInternship/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/aakrati14/-CrackYourInternship/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
