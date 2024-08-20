@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aakrati14/-CrackYourInternship/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
 ## String Matching
 |  |
 | ------- |
