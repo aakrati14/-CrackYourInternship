@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aakrati14/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/aakrati14/-CrackYourInternship/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
