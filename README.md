@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aakrati14/-CrackYourInternship/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aakrati14/-CrackYourInternship/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aakrati14/-CrackYourInternship/tree/master/0035-search-insert-position) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0493-reverse-pairs) |
