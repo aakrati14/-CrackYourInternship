@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aakrati14/-CrackYourInternship/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/0027-remove-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aakrati14/-CrackYourInternship/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aakrati14/-CrackYourInternship/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
