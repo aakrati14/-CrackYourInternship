@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aakrati14/-CrackYourInternship/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aakrati14/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aakrati14/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aakrati14/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aakrati14/-CrackYourInternship/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/aakrati14/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
