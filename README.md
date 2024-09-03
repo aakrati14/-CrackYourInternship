@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aakrati14/-CrackYourInternship/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
