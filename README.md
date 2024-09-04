@@ -318,12 +318,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -342,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
