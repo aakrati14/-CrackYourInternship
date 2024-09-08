@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aakrati14/-CrackYourInternship/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
