@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -390,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
