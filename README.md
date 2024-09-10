@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/aakrati14/-CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/aakrati14/-CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
