@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/aakrati14/-CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aakrati14/-CrackYourInternship/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aakrati14/-CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/aakrati14/-CrackYourInternship/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aakrati14/-CrackYourInternship/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/aakrati14/-CrackYourInternship/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/aakrati14/-CrackYourInternship/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
