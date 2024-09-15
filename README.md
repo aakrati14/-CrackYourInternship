@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
+| [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
 ## Greedy
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aakrati14/-CrackYourInternship/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakrati14/-CrackYourInternship/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/aakrati14/-CrackYourInternship/tree/master/0441-arranging-coins) |
+| [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
