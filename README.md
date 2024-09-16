@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aakrati14/-CrackYourInternship/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakrati14/-CrackYourInternship/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/aakrati14/-CrackYourInternship/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
