@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
 | [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
 ## Greedy
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
