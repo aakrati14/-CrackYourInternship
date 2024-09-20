@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/aakrati14/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aakrati14/-CrackYourInternship/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aakrati14/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aakrati14/-CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/aakrati14/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/aakrati14/-CrackYourInternship/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/aakrati14/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aakrati14/-CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
@@ -433,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
