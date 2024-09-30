@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
 | [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
 ## Greedy
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakrati14/-CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aakrati14/-CrackYourInternship/tree/master/0207-course-schedule) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -445,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
