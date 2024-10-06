@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aakrati14/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aakrati14/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/aakrati14/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aakrati14/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/aakrati14/-CrackYourInternship/tree/master/0068-text-justification) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aakrati14/-CrackYourInternship/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aakrati14/-CrackYourInternship/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aakrati14/-CrackYourInternship/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/aakrati14/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aakrati14/-CrackYourInternship/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/aakrati14/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
