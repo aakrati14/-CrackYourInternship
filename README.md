@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aakrati14/-CrackYourInternship/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aakrati14/-CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
