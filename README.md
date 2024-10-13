@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakrati14/-CrackYourInternship/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakrati14/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aakrati14/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aakrati14/-CrackYourInternship/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakrati14/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0458-poor-pigs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0458-poor-pigs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aakrati14/-CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
