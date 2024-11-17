@@ -1,17 +1,16 @@
 class Solution {
 public:
+    bool helper(int i, int n, vector<char>& chars) {
+        if (i >= n / 2) return true;
+        if (chars[i] != chars[n - i - 1]) return false;
+        return helper(++i, n, chars);
+    }
+
     bool isPalindrome(string s) {
-       int start=0;
-       int end=s.size()-1;
-       while(start<=end){
-           if(!isalnum(s[start])){start++; continue;}
-           if(!isalnum(s[end])){end--;continue;}
-           if(tolower(s[start])!=tolower(s[end]))return false;
-           else{
-               start++;
-               end--;
-           }
-       }
-       return true;
-}
+        vector<char> chars;
+        for (char c : s) {
+            if (isalnum(c)) chars.push_back(tolower(c));
+        }
+        return helper(0, chars.size(), chars);
+    }
 };
