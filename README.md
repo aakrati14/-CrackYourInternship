@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aakrati14/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
