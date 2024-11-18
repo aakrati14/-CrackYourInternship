@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aakrati14/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakrati14/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/aakrati14/-CrackYourInternship/tree/master/1622-max-value-of-equation) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakrati14/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aakrati14/-CrackYourInternship/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aakrati14/-CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aakrati14/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/aakrati14/-CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/aakrati14/-CrackYourInternship/tree/master/0923-super-egg-drop) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakrati14/-CrackYourInternship/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
