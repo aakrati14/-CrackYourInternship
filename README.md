@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aakrati14/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakrati14/-CrackYourInternship/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aakrati14/-CrackYourInternship/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/aakrati14/-CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aakrati14/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aakrati14/-CrackYourInternship/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aakrati14/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/aakrati14/-CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakrati14/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
